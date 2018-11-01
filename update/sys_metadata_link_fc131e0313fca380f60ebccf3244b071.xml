@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1369ce0b13bca380f60ebccf3244b0cf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_nnemc0_hardware_categories">
+    <x_snc_nnemc0_hardware_categories action="INSERT_OR_UPDATE">
+        <description>A storage area network (SAN) is a high-speed special-purpose network (or subnetwork) that interconnects different kinds of data storage devices with associated data servers on behalf of a larger network of users. A storage area network is part of the overall network of computing resources for an enterprise. SANs support disk mirroring, backup and restore, archival and retrieval of archived data, data migration from one storage device to another and the sharing of data among different servers in a network.</description>
+        <material_category>SAN Storage</material_category>
+        <number>HWCAT0001013</number>
+        <sys_class_name>x_snc_nnemc0_hardware_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:05:26</sys_created_on>
+        <sys_id>1369ce0b13bca380f60ebccf3244b0cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:05:26</sys_updated_on>
+    </x_snc_nnemc0_hardware_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:47:35</sys_created_on>
+        <sys_id>fc131e0313fca380f60ebccf3244b071</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAN Storage</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_fc131e0313fca380f60ebccf3244b071</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:47:35</sys_updated_on>
+        <tablename>x_snc_nnemc0_hardware_categories</tablename>
+    </sys_metadata_link>
+</record_update>

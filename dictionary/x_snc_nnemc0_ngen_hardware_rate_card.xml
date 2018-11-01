@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="fm_recurring_rate_card" label="NGEN Hardware Rate Card" max_length="40" name="x_snc_nnemc0_ngen_hardware_rate_card" type="collection">
+        <element label="Hardware Category" max_length="32" name="hardware_category" reference="x_snc_nnemc0_hardware_categories" type="reference"/>
+        <element label="Installation Per Unit Price" max_length="20" name="installation_per_unit_price" type="price"/>
+        <element display="true" label="Model Number" max_length="50" name="model_number" type="string"/>
+        <element label="Price Per Unit" max_length="20" name="price_per_unit" type="price"/>
+        <index name="index">
+            <element name="hardware_category"/>
+        </index>
+    </element>
+</database>

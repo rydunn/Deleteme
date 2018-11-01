@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0f07af5e13346380f60ebccf3244b082</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_nnemc0_vendor">
+    <x_snc_nnemc0_vendor action="INSERT_OR_UPDATE">
+        <apple_icon/>
+        <banner_image/>
+        <banner_image_light/>
+        <banner_text>TerraGo Techologies</banner_text>
+        <city/>
+        <contact/>
+        <country>United States</country>
+        <customer>false</customer>
+        <discount/>
+        <fax_phone/>
+        <fiscal_year/>
+        <lat_long_error/>
+        <latitude/>
+        <longitude/>
+        <manufacturer>false</manufacturer>
+        <market_cap>0</market_cap>
+        <name>TerraGo Techologies</name>
+        <notes/>
+        <num_employees/>
+        <number>NAVVEN0001050</number>
+        <parent/>
+        <phone/>
+        <primary>false</primary>
+        <profits>0</profits>
+        <publicly_traded>false</publicly_traded>
+        <rank_tier/>
+        <revenue_per_year>0</revenue_per_year>
+        <state/>
+        <stock_price/>
+        <stock_symbol/>
+        <street/>
+        <sys_class_name>x_snc_nnemc0_vendor</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-09-29 17:59:02</sys_created_on>
+        <sys_id>0f07af5e13346380f60ebccf3244b082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-09-29 17:59:02</sys_updated_on>
+        <theme/>
+        <vendor>false</vendor>
+        <vendor_manager/>
+        <vendor_type/>
+        <website/>
+        <zip/>
+    </x_snc_nnemc0_vendor>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-09-29 17:59:56</sys_created_on>
+        <sys_id>a047a39e13346380f60ebccf3244b040</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TerraGo Techologies</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_a047a39e13346380f60ebccf3244b040</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-09-29 17:59:56</sys_updated_on>
+        <tablename>x_snc_nnemc0_vendor</tablename>
+    </sys_metadata_link>
+</record_update>

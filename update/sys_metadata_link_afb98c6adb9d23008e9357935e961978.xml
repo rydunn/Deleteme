@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>77c48426db9d23008e9357935e9619e5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Senior Level">f2320462db9d23008e9357935e961911</category_level>
+        <category_name>IT Service Delivery Consultant</category_name>
+        <education_level display_value="High school Diploma or General Equivalency Diploma (GED)">9972c462db9d23008e9357935e9619b1</education_level>
+        <minimum_experience>Ten or more (10+) years of experience with some Project Management and Customer Service skills, along with a general understanding of related technologies. Responsible for ensuring the internal processes related to IT Service Management and Delivery are applied and used across the enterprise to ensure timely resolution of incidents and drive high availability. This role will leverage processes, utilizing ITIL best practices, to ensure the IT organization designs, deploys and sustains high quality, highly available solutions that align with business and IT strategic objectives. Primary areas of responsibility will be the areas of Incident, Problem, Change and Availability Management. This role will also ensure that Information Technology has the appropriate level of process definition, rigor, and reporting to deliver the highest level of availability, quality, value, flexibility and visibility to the organization.</minimum_experience>
+        <number>LABCAT0001104</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>77c48426db9d23008e9357935e9619e5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:45:05</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:02</sys_created_on>
+        <sys_id>afb98c6adb9d23008e9357935e961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Service Delivery Consultant</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_afb98c6adb9d23008e9357935e961978</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:02</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

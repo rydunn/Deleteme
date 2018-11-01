@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5f69ce0b13bca380f60ebccf3244b0cc</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_nnemc0_hardware_categories">
+    <x_snc_nnemc0_hardware_categories action="INSERT_OR_UPDATE">
+        <description>Computers are made up of many different parts, such as a motherboard, CPU, RAM (memory), and hard drives. Each of these parts can be changed or swapped out to customize the performance characteristics of the system.  This category does not include the computer itself.
+
+a. RAM – Stands for "Random Access Memory,". RAM is made up of small memory chips that form a memory module. These modules are installed in the RAM slots on the motherboard of a computer.
+
+b. Seat Storage – The hard drive installed in a seat or desktop / laptop computer. The hard drive is what stores data on a computer. A typical hard drive is only slightly larger than your hand, yet can hold gigabytes or even terabytes of data. The data is stored on a stack of disks that are mounted inside a solid encasement. These disks spin extremely fast (typically 7200 RPM) so that data can be accessed immediately from anywhere on the drive. The data is stored on the hard drive magnetically, so it stays on the drive even after the power supply is turned off.</description>
+        <material_category>Memory/Internal Options</material_category>
+        <number>HWCAT0001006</number>
+        <sys_class_name>x_snc_nnemc0_hardware_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:05:26</sys_created_on>
+        <sys_id>5f69ce0b13bca380f60ebccf3244b0cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:05:26</sys_updated_on>
+    </x_snc_nnemc0_hardware_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:47:37</sys_created_on>
+        <sys_id>59135e0313fca380f60ebccf3244b009</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Memory/Internal Options</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_59135e0313fca380f60ebccf3244b009</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:47:37</sys_updated_on>
+        <tablename>x_snc_nnemc0_hardware_categories</tablename>
+    </sys_metadata_link>
+</record_update>

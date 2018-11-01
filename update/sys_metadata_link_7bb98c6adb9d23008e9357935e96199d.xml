@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>37c48426db9d23008e9357935e9619e9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Mid Level">3a320462db9d23008e9357935e961911</category_level>
+        <category_name>IT Specialist</category_name>
+        <education_level display_value="High school Diploma or General Equivalency Diploma (GED)">9972c462db9d23008e9357935e9619b1</education_level>
+        <minimum_experience>Four to nine (4-9) years of related experience in information systems.  Under general direction, applies specialized knowledge in a single discipline such as assembly/integration, cross-discipline functions, data engineering, industry expertise, knowledge engineering or legacy evolution. Applies specialization to conceptualize, design, construct, test and implement portions of business and technical information technology solutions through application of appropriate software development life cycle methodology. Interacts with the customer to gain an understanding of the business environment, technical context and organizational strategic direction. defines scope, plans and deliverables for assigned projects. Collects, identifies, defines and organizes detailed user and information technology requirements. Coordinates and collaborates with others in analyzing collected requirements to ensure plans and identified solutions meet customer needs and expectations. Confirms and prioritizes project plans and deliverables with the customer. participates in business and technical information technology solution implementations, upgrades, enhancement and conversions. Understands and uses appropriate tools to analyze, identify and resolve business and or technical problems. Applies metrics to monitor performance and measure key project criteria. Prepares system documentation. establishes and maintains security, integrity and business continuity controls and documents. Participates in special studies. Stays current on emerging tools, techniques and technologies. Assists information engineers on application of specialized knowledge to coding, testing, implementation and documentation projects.</minimum_experience>
+        <number>LABCAT0001111</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>37c48426db9d23008e9357935e9619e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:45:05</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:02</sys_created_on>
+        <sys_id>7bb98c6adb9d23008e9357935e96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Specialist</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_7bb98c6adb9d23008e9357935e96199d</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:02</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bbc48426db9d23008e9357935e9619e3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Mid Level">3a320462db9d23008e9357935e961911</category_level>
+        <category_name>Information Systems Architect</category_name>
+        <education_level display_value="High school Diploma or General Equivalency Diploma (GED)">9972c462db9d23008e9357935e9619b1</education_level>
+        <minimum_experience>Five to nine (5-9) years of related experience in data security administration. Designs architecture to include the software, hardware, and communications to support the total requirements as well as provide for present and future cross-functional requirements and interfaces. Identifies, assesses, and presents options for meeting the functional and technical requirements including hardware and software updates or upgrades. Responsible for developing high level system design diagrams. Ensures these systems are compatible and in compliance with the standards for open systems architectures, the Open Systems Interconnection (OSI) and International Standards Organization (ISO) reference models, and profiles of standards - such as Institute of Electrical and Electronic Engineers (IEEE) Open Systems Environment (OSE) reference model - as they apply to the implementation and specification of Information Management (IM) solution of the application platform, across the application program interface (API), and the external environment/software application. Ensures that the common operating environment is compliant. Evaluates analytically and systematically problems of work flows, organization and planning and develops appropriate corrective action.</minimum_experience>
+        <number>LABCAT0001101</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>bbc48426db9d23008e9357935e9619e3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:45:42</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:01</sys_created_on>
+        <sys_id>6fb98c6adb9d23008e9357935e961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Information Systems Architect</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_6fb98c6adb9d23008e9357935e961973</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:01</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

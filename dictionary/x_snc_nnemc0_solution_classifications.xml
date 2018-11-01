@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Solution Classifications" max_length="40" name="x_snc_nnemc0_solution_classifications" type="collection">
+        <element label="Classification" max_length="100" name="classification" type="string"/>
+        <element display="true" label="Classification Code" max_length="40" name="classification_code" type="string"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

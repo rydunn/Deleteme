@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c55e6f1adb1d23008e9357935e961984</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_appn">
+    <x_snc_nnemc0_appn action="INSERT_OR_UPDATE">
+        <appn_code>OPN</appn_code>
+        <appn_desc>OPN funds are used for investments to finance the procurement, production and&#13;
+modernization of equipment not otherwise provided for. Such equipment ranges from the&#13;
+latest electronic sensors to training equipment and spare parts. The system unit price of this&#13;
+equipment must be in excess of $250,000. This appropriation is a multi-year appropriation&#13;
+and remains available for obligation for three fiscal years. </appn_desc>
+        <appn_type>Other Procurement, Navy</appn_type>
+        <number>APPN0001003</number>
+        <sys_class_name>x_snc_nnemc0_appn</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:02:46</sys_created_on>
+        <sys_id>c55e6f1adb1d23008e9357935e961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:02:46</sys_updated_on>
+    </x_snc_nnemc0_appn>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:14:25</sys_created_on>
+        <sys_id>d311b31edb1d23008e9357935e96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Other Procurement, Navy</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_d311b31edb1d23008e9357935e96196a</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:14:25</sys_updated_on>
+        <tablename>x_snc_nnemc0_appn</tablename>
+    </sys_metadata_link>
+</record_update>

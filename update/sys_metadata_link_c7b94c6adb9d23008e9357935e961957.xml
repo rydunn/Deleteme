@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>73c48426db9d23008e9357935e9619d8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Mid Level">3a320462db9d23008e9357935e961911</category_level>
+        <category_name>Active Directory / Exchange Specialist</category_name>
+        <education_level display_value="Bachelor's Degree in Business or related field of study*">5d72c462db9d23008e9357935e9619b2</education_level>
+        <minimum_experience>Under general supervision, perform tasks related to the operation, servicing, trouble shooting, and account administration  of Active Directory, Exchange, ADAM, and the GAL.  5-9 years of experience and possess a Microsoft Certified IT Professional (MCITP) certification.</minimum_experience>
+        <number>LABCAT0001080</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>73c48426db9d23008e9357935e9619d8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:43:00</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:01:59</sys_created_on>
+        <sys_id>c7b94c6adb9d23008e9357935e961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active Directory / Exchange Specialist</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_c7b94c6adb9d23008e9357935e961957</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:01:59</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

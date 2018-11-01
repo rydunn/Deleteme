@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>27e2bf5edb1d23008e9357935e9619ab</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_funds_transaction_stages">
+    <x_snc_nnemc0_funds_transaction_stages action="INSERT_OR_UPDATE">
+        <fund_stage_description>A disbursement and accounts payable transaction processed by the&#13;
+SUPSHIP or disbursing office, as applicable, that results in a reflection of expenditures.&#13;
+The Debt Collection Improvement Act of 1996, Public Law 104-134, reference (v),&#13;
+requires payments on all Federal contracts to be made via Electronic Funds Transfer&#13;
+(EFT) if the solicitation was issued after June 26, 1996. DoD FMR Voume 5 Chapter 24&#13;
+applies. All DoD Vendors are required to be registered in the Central Contractor&#13;
+Registration (CCR) database as DFAS payment offices use the EFT data provided in the&#13;
+CCR in order to issue EFT payments. There are only limited exceptions to this mandate.</fund_stage_description>
+        <fund_stage_name>Expenditure</fund_stage_name>
+        <number>FUNDSTAGE0001004</number>
+        <sys_class_name>x_snc_nnemc0_funds_transaction_stages</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:22:28</sys_created_on>
+        <sys_id>27e2bf5edb1d23008e9357935e9619ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:22:28</sys_updated_on>
+    </x_snc_nnemc0_funds_transaction_stages>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:22:37</sys_created_on>
+        <sys_id>9ff2779edb1d23008e9357935e96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expenditure</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_9ff2779edb1d23008e9357935e96191b</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:22:37</sys_updated_on>
+        <tablename>x_snc_nnemc0_funds_transaction_stages</tablename>
+    </sys_metadata_link>
+</record_update>

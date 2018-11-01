@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5769ce0b13bca380f60ebccf3244b0cf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_nnemc0_hardware_categories">
+    <x_snc_nnemc0_hardware_categories action="INSERT_OR_UPDATE">
+        <description>A server is a computer that provides data to other computers. It may serve data to systems on a local area network (LAN) or a wide area network (WAN) over the Internet.  Many types of servers exist, including web servers, mail servers, and file servers. Each type runs software specific to the purpose of the server. For example, a Web server may run Microsoft IIS, which provides access to websites over the Internet. These systems, often 1U in size, take up minimal space and often have useful features such as LED status lights and hot-swappable hard drive bays. Multiple rack-mountable servers can be placed in a single rack and often share the same monitor and input devices. Most servers are accessed remotely using remote access software.</description>
+        <material_category>Servers</material_category>
+        <number>HWCAT0001014</number>
+        <sys_class_name>x_snc_nnemc0_hardware_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:05:26</sys_created_on>
+        <sys_id>5769ce0b13bca380f60ebccf3244b0cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:05:26</sys_updated_on>
+    </x_snc_nnemc0_hardware_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:47:37</sys_created_on>
+        <sys_id>c9135e0313fca380f60ebccf3244b004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Servers</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_c9135e0313fca380f60ebccf3244b004</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:47:37</sys_updated_on>
+        <tablename>x_snc_nnemc0_hardware_categories</tablename>
+    </sys_metadata_link>
+</record_update>

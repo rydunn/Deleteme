@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Funds Transaction Stages" max_length="40" name="x_snc_nnemc0_funds_transaction_stages" type="collection">
+        <element label="Funds Stage Description" max_length="1000" name="fund_stage_description" type="string"/>
+        <element display="true" label="Funds Stage" max_length="40" name="fund_stage_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

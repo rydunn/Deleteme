@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>37c48426db9d23008e9357935e9619f2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Mid Level">3a320462db9d23008e9357935e961911</category_level>
+        <category_name>Packager</category_name>
+        <education_level display_value="High school Diploma or General Equivalency Diploma (GED)">9972c462db9d23008e9357935e9619b1</education_level>
+        <minimum_experience>Must have 4-8 years experience with packaging materials for shipment and storage.  With limited supervision, manage preservation, packaging, and packing (PP&amp;P) safety program, receiving operations, preservation, container manufacturing, operations, custody procedures, and hazardous material processing.  Supervise preparation for shipment operations, care in storage, preventive maintenance program, prioritization of workload, and embarkation procedures.  Control special tools for operation of automated material handling equipment (AMHE) and perform process planning and process quality control procedures.  Design and construct wood shipping/storage containers or wood pallets.  Prepare documentation to include, but not limited to, shipper's declaration for dangerous goods form and verify packaging of hazardous materials containers form.  Personnel who perform duties in some phase of transportation of hazardous materials shipment certification must attend a 2 week approved DOD Hazmat school and recertify every 3 years.</minimum_experience>
+        <number>LABCAT0001127</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>37c48426db9d23008e9357935e9619f2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:50:37</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:04</sys_created_on>
+        <sys_id>18c98c6adb9d23008e9357935e9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Packager</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_18c98c6adb9d23008e9357935e9619d1</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:04</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

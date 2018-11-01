@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>86b1ebdadbd923008e9357935e961939</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_systems">
+    <x_snc_nnemc0_systems action="INSERT_OR_UPDATE">
+        <number>NAVSYS0001013</number>
+        <sys_class_name>x_snc_nnemc0_systems</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 14:07:09</sys_created_on>
+        <sys_id>86b1ebdadbd923008e9357935e961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 14:07:09</sys_updated_on>
+        <system_type>Facilities and Infrastructure Support System</system_type>
+    </x_snc_nnemc0_systems>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 14:07:23</sys_created_on>
+        <sys_id>9dc12fdadbd923008e9357935e9619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities and Infrastructure Support System</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_9dc12fdadbd923008e9357935e9619e7</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 14:07:23</sys_updated_on>
+        <tablename>x_snc_nnemc0_systems</tablename>
+    </sys_metadata_link>
+</record_update>

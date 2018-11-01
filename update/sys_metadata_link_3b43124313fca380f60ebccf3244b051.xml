@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>841c4e8b13bca380f60ebccf3244b0d7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="x_snc_nnemc0_ngen_hardware_rate_card">
+    <x_snc_nnemc0_ngen_hardware_rate_card action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <amount>0</amount>
+        <base_cost>0</base_cost>
+        <condition/>
+        <cost_center/>
+        <description>RACKMOUNT KIT, JUNIPER, HOLDS 2 UNITS, SSG-5-RMK</description>
+        <distribute_cost/>
+        <distribution_value/>
+        <end_date/>
+        <hardware_category display_value="Routers and Other Active Gear">d369ce0b13bca380f60ebccf3244b0d1</hardware_category>
+        <installation_per_unit_price>0</installation_per_unit_price>
+        <interval>monthly</interval>
+        <last_processed/>
+        <model_number>SSG-5-RMK</model_number>
+        <name>SSG-5-RMK</name>
+        <next_process>2018-10-01</next_process>
+        <number>NGENHWRC0001045</number>
+        <order>100</order>
+        <price_per_unit>49.4</price_per_unit>
+        <recurring>false</recurring>
+        <sales_tax>false</sales_tax>
+        <short_description/>
+        <start_date>2018-10-01</start_date>
+        <summary_type/>
+        <sys_class_name>x_snc_nnemc0_ngen_hardware_rate_card</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:16:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>841c4e8b13bca380f60ebccf3244b0d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:16:57</sys_updated_on>
+        <table/>
+        <tax_cost>0</tax_cost>
+        <tax_rate>0</tax_rate>
+    </x_snc_nnemc0_ngen_hardware_rate_card>
+    <fx_price action="delete_multiple" query="id=841c4e8b13bca380f60ebccf3244b0d7"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>installation_per_unit_price</field>
+        <id>841c4e8b13bca380f60ebccf3244b0d7</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:16:57</sys_created_on>
+        <sys_id>001c4e8b13bca380f60ebccf3244b0d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:16:57</sys_updated_on>
+        <table>x_snc_nnemc0_ngen_hardware_rate_card</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>49.4</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_per_unit</field>
+        <id>841c4e8b13bca380f60ebccf3244b0d7</id>
+        <parent/>
+        <reference_amount>49.4</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:16:57</sys_created_on>
+        <sys_id>481c4e8b13bca380f60ebccf3244b0d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:16:57</sys_updated_on>
+        <table>x_snc_nnemc0_ngen_hardware_rate_card</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:48:36</sys_created_on>
+        <sys_id>3b43124313fca380f60ebccf3244b051</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SSG-5-RMK</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_3b43124313fca380f60ebccf3244b051</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:48:36</sys_updated_on>
+        <tablename>x_snc_nnemc0_ngen_hardware_rate_card</tablename>
+    </sys_metadata_link>
+</record_update>

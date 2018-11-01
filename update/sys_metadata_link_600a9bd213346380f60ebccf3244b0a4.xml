@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>765913d213346380f60ebccf3244b090</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_nnemc0_requirement_driver">
+    <x_snc_nnemc0_requirement_driver action="INSERT_OR_UPDATE">
+        <description/>
+        <driver>NGEN-R Readiness </driver>
+        <number>REQDRV0001007</number>
+        <order>500</order>
+        <sys_class_name>x_snc_nnemc0_requirement_driver</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-09-29 16:59:13</sys_created_on>
+        <sys_id>765913d213346380f60ebccf3244b090</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-09-29 17:01:33</sys_updated_on>
+    </x_snc_nnemc0_requirement_driver>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-09-29 17:02:03</sys_created_on>
+        <sys_id>600a9bd213346380f60ebccf3244b0a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NGEN-R Readiness </sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_600a9bd213346380f60ebccf3244b0a4</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-09-29 17:02:03</sys_updated_on>
+        <tablename>x_snc_nnemc0_requirement_driver</tablename>
+    </sys_metadata_link>
+</record_update>

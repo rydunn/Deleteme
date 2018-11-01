@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b3c4c426db9d23008e9357935e961907</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Mid Level">3a320462db9d23008e9357935e961911</category_level>
+        <category_name>Test Engineer Lead</category_name>
+        <education_level display_value="Bachelor's Degree in Computer Science, MIS, Business, or related field*">11720862db9d23008e9357935e961924</education_level>
+        <minimum_experience>Four to nine (4-9) years of related experience (includes functional testing, non-functional testing, and automated testing). Coordinates all activities and all testers during each testing phase of a project or program.  Co-operates with clients/users and senior staff as required to agree on the testing strategy to be employed for development projects.  Maintains awareness of testing alternatives at a level where they can be analyzed and the most effective testing strategy selected and agreed on. Utilizes testing knowledge and experience to assess and advise on the practicality of testing process alternatives.  Identifies improvements to the process and assists in their implementation.  Ensures that any risks associated with the agreed test strategy and the system test plan are clearly documented and described to the clients/users and colleagues.  Manages all risks associated with the testing and takes preventative action when any risks become unacceptable.  Provides authoritative advice and guidance to colleagues on any aspect of testing, including training for testers and other developers where appropriate.  Plans, arranges and controls meetings, workshops and relations with client/user staff during test planning and throughout subsequent development and testing activities.  Takes responsibility at a high level for the proper conduct of such relations.  Takes responsibility for all phases of testing and the management of the testing activities within a development project.  Plans or oversees the planning of the system and acceptance tests and coordinates the execution of these plans.  Takes responsibility for early life-cycle validation and verification.  Takes responsibility for the production and approval of all testing deliverables and achievement of testing milestones during a project.  Fulfills the role of Testing Co-coordinator for a development project or program of projects.</minimum_experience>
+        <number>LABCAT0001142</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>b3c4c426db9d23008e9357935e961907</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:54:09</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:05</sys_created_on>
+        <sys_id>2cc9cc6adb9d23008e9357935e961903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Engineer Lead</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_2cc9cc6adb9d23008e9357935e961903</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:05</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>db69ce0b13bca380f60ebccf3244b0ce</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_nnemc0_hardware_categories">
+    <x_snc_nnemc0_hardware_categories action="INSERT_OR_UPDATE">
+        <description>In packet-switched networks such as the Internet, a router is a device or, in some cases, software in a computer, that determines the next network point to which a packet should be forwarded toward its destination. The router is connected to at least two networks and decides which way to send each information packet based on its current understanding of the state of the networks it is connected to. A router is located at any gateway (where one network meets another), including each point-of-presence on the Internet.</description>
+        <material_category>Routers</material_category>
+        <number>HWCAT0001012</number>
+        <sys_class_name>x_snc_nnemc0_hardware_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:05:26</sys_created_on>
+        <sys_id>db69ce0b13bca380f60ebccf3244b0ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:05:26</sys_updated_on>
+    </x_snc_nnemc0_hardware_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:47:40</sys_created_on>
+        <sys_id>86135e0313fca380f60ebccf3244b042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Routers</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_86135e0313fca380f60ebccf3244b042</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:47:40</sys_updated_on>
+        <tablename>x_snc_nnemc0_hardware_categories</tablename>
+    </sys_metadata_link>
+</record_update>

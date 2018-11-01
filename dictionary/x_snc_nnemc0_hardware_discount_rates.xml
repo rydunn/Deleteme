@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Hardware Discount Rates" max_length="40" name="x_snc_nnemc0_hardware_discount_rates" type="collection">
+        <element label="Discount %" max_length="40" name="discount" type="float"/>
+        <element label="Hardware Category" max_length="32" name="hardware_category" reference="x_snc_nnemc0_hardware_categories" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="hardware_category"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

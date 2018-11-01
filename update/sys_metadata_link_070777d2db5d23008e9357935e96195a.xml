@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ffd673d2db5d23008e9357935e961905</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_project_status">
+    <x_snc_nnemc0_project_status action="INSERT_OR_UPDATE">
+        <number>BIUPRJSTAT0000114</number>
+        <order/>
+        <status>On Hold</status>
+        <sys_class_name>x_snc_nnemc0_project_status</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:39:40</sys_created_on>
+        <sys_id>ffd673d2db5d23008e9357935e961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:39:40</sys_updated_on>
+    </x_snc_nnemc0_project_status>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:40:20</sys_created_on>
+        <sys_id>070777d2db5d23008e9357935e96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BIUPRJSTAT0000114</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_070777d2db5d23008e9357935e96195a</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:40:20</sys_updated_on>
+        <tablename>x_snc_nnemc0_project_status</tablename>
+    </sys_metadata_link>
+</record_update>

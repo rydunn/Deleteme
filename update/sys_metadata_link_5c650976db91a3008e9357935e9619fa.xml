@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>af158176db91a3008e9357935e96199b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_gwbs">
+    <x_snc_nnemc0_gwbs action="INSERT_OR_UPDATE">
+        <definition>Facilities specifically identified in other elements, e.g,. 3.3 Systems T&amp;E, 3.5.5 Data Repository, and 3.9 Initial Training.</definition>
+        <number>GWBS0001406</number>
+        <parent_task/>
+        <sys_class_name>x_snc_nnemc0_gwbs</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-25 15:59:55</sys_created_on>
+        <sys_id>af158176db91a3008e9357935e96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-25 15:59:55</sys_updated_on>
+        <task_code/>
+        <task_name/>
+        <task_title/>
+    </x_snc_nnemc0_gwbs>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-25 16:01:04</sys_created_on>
+        <sys_id>5c650976db91a3008e9357935e9619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_5c650976db91a3008e9357935e9619fa</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-25 16:01:04</sys_updated_on>
+        <tablename>x_snc_nnemc0_gwbs</tablename>
+    </sys_metadata_link>
+</record_update>

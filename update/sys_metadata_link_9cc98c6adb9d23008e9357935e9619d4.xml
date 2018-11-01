@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b7c48426db9d23008e9357935e9619f3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Senior Level">f2320462db9d23008e9357935e961911</category_level>
+        <category_name>Programmer</category_name>
+        <education_level display_value="Bachelor's Degree in Computer Science, MIS, Business, or related field*">11720862db9d23008e9357935e961924</education_level>
+        <minimum_experience>Under broad direction, oversee creation of web-based, multi-user solutions documenting and auditing personnel training, schedules, and permissions.  Manage latest web development technologies and practices for review of  customized easy to understand reports and views that reduce management efforts.  Facilitate creation of access-related work processes and empower leadership by providing clear insight into their personnel groups and permissions.  Oversee development of extensible searching capability, customized reports and statistics, export features, history/event tracking system, and Microsoft SharePoint Web-part integration and Microsoft Active Directory integration.  Demonstrate best practices in code development and documentation at an organization’s enterprise level.  Requires Full Systems Development Life Cycle (SDLC) experience and as well as experience in web development.  Will be responsible for .NET, SQL server, and ASP.NET applications.  Will  operate SQL server 2008 and need knowledge of HTML, CSS, C# and Java Script.  10+ years of experience required.  Experience working in the Department of Defense environment is required.  Excellent communications skills are required.  Required to have certifications as DODD 8570.1 IAT III Level, in Microsoft programming, and in Information Technology Infrastructure Library (ITIL) version 3 Foundation.</minimum_experience>
+        <number>LABCAT0001129</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>b7c48426db9d23008e9357935e9619f3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:51:08</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:04</sys_created_on>
+        <sys_id>9cc98c6adb9d23008e9357935e9619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Programmer</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_9cc98c6adb9d23008e9357935e9619d4</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:04</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

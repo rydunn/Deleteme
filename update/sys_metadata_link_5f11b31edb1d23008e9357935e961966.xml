@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>60eea75adb1d23008e9357935e961948</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_appn">
+    <x_snc_nnemc0_appn action="INSERT_OR_UPDATE">
+        <appn_code>NWCF</appn_code>
+        <appn_desc>The Navy Working Capital Fund (NWCF) is a branch of the family of Department of Defense&#13;
+(DoD) Working Capital Funds. The NWCF is a revolving fund, an account or fund that relies&#13;
+on sales revenue rather than direct Congressional appropriations to finance its operations. It&#13;
+is intended to generate adequate revenue to cover the full costs of its operations, and to  finance the fund's continuing operations without fiscal year limitations. A revolving fund is intended to operate on a break-even basis over time; that is, it neither makes a profit nor&#13;
+incurs a loss. </appn_desc>
+        <appn_type>Navy Working Capital Fund</appn_type>
+        <number>APPN0001007</number>
+        <sys_class_name>x_snc_nnemc0_appn</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:05:06</sys_created_on>
+        <sys_id>60eea75adb1d23008e9357935e961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:05:06</sys_updated_on>
+    </x_snc_nnemc0_appn>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:14:25</sys_created_on>
+        <sys_id>5f11b31edb1d23008e9357935e961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Navy Working Capital Fund</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_5f11b31edb1d23008e9357935e961966</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:14:25</sys_updated_on>
+        <tablename>x_snc_nnemc0_appn</tablename>
+    </sys_metadata_link>
+</record_update>

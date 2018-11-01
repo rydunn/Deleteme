@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>348ee35adb1d23008e9357935e9619aa</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_appn">
+    <x_snc_nnemc0_appn action="INSERT_OR_UPDATE">
+        <appn_code>SCN</appn_code>
+        <appn_desc>SCN funds are used for investments to finance the construction of new ships and conversion&#13;
+of existing ships, including service life extensions and nuclear refueling overhauls. Included&#13;
+in the SCN appropriation are hull, mechanical and electrical equipment, electronics, guns,&#13;
+torpedo and missile launching systems, and communications systems. It also includes plant&#13;
+equipment, ship outfitting and post delivery projects, machines, and tools. This appropriation&#13;
+is a multi-year appropriation and normally remains available for obligation for five fiscal years&#13;
+or the obligation work limiting date (OWLD) of the ship under construction. The OWLD is&#13;
+established as 11 months following completion of fitting out the ship, and the OWLD date of&#13;
+the last hull in a class of ships governs when the appropriation is scheduled to expire. </appn_desc>
+        <appn_type>Shipbuilding and Conversion, Navy</appn_type>
+        <number>APPN0001004</number>
+        <sys_class_name>x_snc_nnemc0_appn</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:03:20</sys_created_on>
+        <sys_id>348ee35adb1d23008e9357935e9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:03:20</sys_updated_on>
+    </x_snc_nnemc0_appn>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:14:25</sys_created_on>
+        <sys_id>d711331edb1d23008e9357935e9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shipbuilding and Conversion, Navy</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_d711331edb1d23008e9357935e9619fc</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:14:25</sys_updated_on>
+        <tablename>x_snc_nnemc0_appn</tablename>
+    </sys_metadata_link>
+</record_update>

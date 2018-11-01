@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>Labor Category Rates</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_nnemc0_labor_category_rates</name>
+        <number_ref display_value="LABCATRATE">808b002edb9d23008e9357935e961910</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Rate Card" name="fm_recurring_rate_card">ec7bdbc7db521300d6f4ff561d9619de</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:09:39</sys_created_on>
+        <sys_id>f54b88eadb9d23008e9357935e9619ca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Labor Category Rates</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_db_object_f54b88eadb9d23008e9357935e9619ca</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:09:42</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_snc_nnemc0.labor_category_rates_user" name="x_snc_nnemc0.labor_category_rates_user">9f7b4ceadb9d23008e9357935e9619e0</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

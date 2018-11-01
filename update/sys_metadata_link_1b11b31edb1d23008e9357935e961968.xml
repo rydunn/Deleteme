@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>abece7d6db1d23008e9357935e9619d8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_appn">
+    <x_snc_nnemc0_appn action="INSERT_OR_UPDATE">
+        <appn_code>OMN</appn_code>
+        <appn_desc>O&amp;MN funds are used for expenses, not otherwise provided for, necessary for the operation&#13;
+and maintenance of the Navy and Marine Corps, as authorized by law. Per the&#13;
+Expense/Investment criteria, equipment purchases under this appropriation are limited to a&#13;
+system unit price of less than $250,000. This limitation is subject to change by Congress,&#13;
+and the current limitation is contained in the DoD FMR, 010201. O&amp;MN funds are available&#13;
+for new obligations for one fiscal year and are appropriated and authorized for use on an&#13;
+annual basis. This appropriation funds SUPSHIPs' operations and includes salaries, general&#13;
+and administrative (G&amp;A), travel, and training costs. </appn_desc>
+        <appn_type>Operations &amp; Maintenance, Navy</appn_type>
+        <number>APPN0001001</number>
+        <sys_class_name>x_snc_nnemc0_appn</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 14:56:38</sys_created_on>
+        <sys_id>abece7d6db1d23008e9357935e9619d8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:00:42</sys_updated_on>
+    </x_snc_nnemc0_appn>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:14:25</sys_created_on>
+        <sys_id>1b11b31edb1d23008e9357935e961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Operations &amp; Maintenance, Navy</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_1b11b31edb1d23008e9357935e961968</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:14:25</sys_updated_on>
+        <tablename>x_snc_nnemc0_appn</tablename>
+    </sys_metadata_link>
+</record_update>

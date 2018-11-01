@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3fc48426db9d23008e9357935e9619f6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Senior Level">f2320462db9d23008e9357935e961911</category_level>
+        <category_name>Systems Administrator</category_name>
+        <education_level display_value="Bachelor's Degree in Computer Science, MIS, Business, or related field*">11720862db9d23008e9357935e961924</education_level>
+        <minimum_experience>Ten or more (10+) years of related experience. Under broad direction, leads and coordinates the operational support and implementation activities for local area network (LAN), campus area network (CAN), and wide area network (WAN) service offerings encompassing heterogeneous platforms. Assists leadership in determining tactical and strategic direction of the organization as it relates to emerging operational support technologies. Researches, analyzes, and recommends new operational support technologies, tools, and techniques. Coaches others on the application of new operational support technologies. Reviews distributed computing and network designs to select appropriate operational support strategies and ensure efficient use of resources. Conducts system support design and performance evaluation reviews. Identifies, develops, and updates operational support standards and procedures. Participates with corporate strategic planning teams. Keeps abreast of emerging operational support technologies and industry trends. Recommends price/performance improvement opportunities</minimum_experience>
+        <number>LABCAT0001135</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>3fc48426db9d23008e9357935e9619f6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:52:20</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:05</sys_created_on>
+        <sys_id>10c98c6adb9d23008e9357935e9619df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Systems Administrator</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_10c98c6adb9d23008e9357935e9619df</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:05</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

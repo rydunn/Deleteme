@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_snc_nnemc0_funding_status">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_snc_nnemc0_funding_status</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-09-13 19:53:14</sys_created_on>
+            <sys_id>ccc7ed151320e7403e1554022244b06f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_nnemc0_funding_status_number_en</sys_update_name>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-09-13 19:53:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ffc48426db9d23008e9357935e9619ea</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Mid Level">3a320462db9d23008e9357935e961911</category_level>
+        <category_name>NetOps Lead</category_name>
+        <education_level display_value="Bachelor's Degree in Information Technology or related field of study*">9172c462db9d23008e9357935e9619b3</education_level>
+        <minimum_experience>Under general supervision, manages the day-to-day activities of the Network Operations Center, including all Cyber Security activities.  Ensures effective and efficient operation of network systems, architecture and topology through deployment and oversight of network operations specialists, that all operating systems are adequate, functional, and conform to operation security policies and procedures.  Assists with the development and application of business processes to ensure appropriate service levels.  Develops and implements standards, procedures, and processes for the Network Operations Center.  Participates in strategic network planning, steady state operations planning, and development of contingency operation plans.  Plans and supports injection of new technologies and implementation of technology refresh.  Estimates project costs and prepares project plans.  Confers with and advises administrators, user representatives, and technical personnel regarding development and design of integrated network solutions.  Prepares recommendations based on monitoring results, tools analyses, and forensics.  Participates in the development and implementation of policies and procedures regarding network equipment, maintenance, and monitoring.  Prepares status reports.  Schedules routine system maintenance, oversees application of proactive Cyber Security measures, and manages reaction to Network Defense requirements.  Develops and maintains system architecture and operational documentation.  5-9 years of experience required.</minimum_experience>
+        <number>LABCAT0001114</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>ffc48426db9d23008e9357935e9619ea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:46:19</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:03</sys_created_on>
+        <sys_id>3bb98c6adb9d23008e9357935e9619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NetOps Lead</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_3bb98c6adb9d23008e9357935e9619bb</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:03</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

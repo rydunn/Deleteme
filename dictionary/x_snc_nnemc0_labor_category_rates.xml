@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="fm_recurring_rate_card" label="Labor Category Rates" max_length="40" name="x_snc_nnemc0_labor_category_rates" type="collection">
+        <element label="Gov Fiscal Year (GF)" max_length="32" name="gf" reference="fiscal_period" type="reference"/>
+        <element label="Labor Category" max_length="32" name="labor_category" reference="x_snc_nnemc0_labor_categories" type="reference"/>
+        <index name="index">
+            <element name="labor_category"/>
+        </index>
+        <index name="index2">
+            <element name="gf"/>
+        </index>
+    </element>
+</database>

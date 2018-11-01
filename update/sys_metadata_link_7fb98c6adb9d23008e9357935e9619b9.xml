@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b7c48426db9d23008e9357935e9619ea</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Junior Level">fe320462db9d23008e9357935e96190f</category_level>
+        <category_name>Mainframe Specialist</category_name>
+        <education_level display_value="High school Diploma or General Equivalency Diploma (GED)">9972c462db9d23008e9357935e9619b1</education_level>
+        <minimum_experience>Under general supervision, provide security administration support for mainframe Information Assurance (IA) support tasks.  Provide administration and maintenance of mainframe security issues and resolve those issues, including issues conveyed through the mainframe hosting facility and DON Service Desks.  Provide resolutions, in the shortest time possible, to minimize any customer downtime or work stoppage.  Produce operational metrics and analysis to improve the enterprise mainframe customer’s experience and reduce Help Desk calls.  Work on security relating to mainframe applications so as to optimize their use and impact.  Assess impacts and provide security recommendations for DON action.  Provide technical advice and assistance relative to DoD IA Certification and Accreditation.  Process DoD Information Assurance Certification and Accreditation Process (DIACAP) and Federal Information Security Management Act (FISMA) requirements.  Maintain documentation related to mainframe IA tactics, techniques and procedures.  Employee should have 5-9 years of mainframe experience and have command control of IBM mainframe operating system software z/OS/MVS, Job Control Language (JCL), TSO, ISPF and CA Top Secret software.  Employee will have up to six (6) month to complete required DOD 8570.1-M IAT III certification requirements and to acquire basic skills with SDSF, ROSCOE, ETrust Top Secret Cleanup, ADABAS/Natural Security and terminal/printer (3270) Emulation Software.</minimum_experience>
+        <number>LABCAT0001113</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>b7c48426db9d23008e9357935e9619ea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:45:05</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:03</sys_created_on>
+        <sys_id>7fb98c6adb9d23008e9357935e9619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mainframe Specialist</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_7fb98c6adb9d23008e9357935e9619b9</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:03</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>fbc48426db9d23008e9357935e9619e8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Junior Level">fe320462db9d23008e9357935e96190f</category_level>
+        <category_name>IT Specialist</category_name>
+        <education_level display_value="High school Diploma or General Equivalency Diploma (GED)">9972c462db9d23008e9357935e9619b1</education_level>
+        <minimum_experience>Under immediate supervision, install, configure, service, repair, and maintain information technology systems in both a stand-alone and client-server environment, including MS server, Defense Message Systems, and other authorized information technology systems. Install, configure, service, repair, and maintain hardware and software for network services, storage networking devices, and servers. Integrate multiple information systems in a networked environment, evaluate and resolve customer information system problems, effect required hardware upgrades and repair to maintain mission capability.  Install and configure wireless hubs, routers, switches, and various transmission media, server hardware and software, and ensure the proper installation and configuration of workstation hardware and software for efficient operation on the network. Install, optimize and troubleshoot Local Area and Base Area Networks.  Familiar with Internet Protocol version 6 (IPv6), Enhanced Interior Gateway Routing Protocol (EIGRP), Border Gateway Protocol (BGP), Virtual Local Area Network (VLAN), Virtual Private Network (VPN), and Network Address Translation (NAT).  2-4 years of experience required.  Possess a Computing Technology Industry Association (CompTIA) A+ and Network+, Cisco Certified Network Associate (CCNA), Microsoft Technology Associate (MTA) or a Microsoft Certified Technology Specialist (MCTS) certification.</minimum_experience>
+        <number>LABCAT0001110</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>fbc48426db9d23008e9357935e9619e8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:45:05</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:02</sys_created_on>
+        <sys_id>bfb98c6adb9d23008e9357935e96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Specialist</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_bfb98c6adb9d23008e9357935e96199b</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:02</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

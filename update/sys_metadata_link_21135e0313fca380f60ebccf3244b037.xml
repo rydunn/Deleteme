@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>9769ce0b13bca380f60ebccf3244b0ce</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_nnemc0_hardware_categories">
+    <x_snc_nnemc0_hardware_categories action="INSERT_OR_UPDATE">
+        <description>Items associated with computer racks. A standard rack is 42 units or about 78” high and 19” wide, but racks come in a variety of heights and widths to meet the needs of the equipment they are designed to hold. Components of the racks include shelves or trays, rails, fans, stovepipes, side panels, doors, power strips and screws.</description>
+        <material_category>Rack/Cabinet Items</material_category>
+        <number>HWCAT0001011</number>
+        <sys_class_name>x_snc_nnemc0_hardware_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:05:26</sys_created_on>
+        <sys_id>9769ce0b13bca380f60ebccf3244b0ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:05:26</sys_updated_on>
+    </x_snc_nnemc0_hardware_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:47:39</sys_created_on>
+        <sys_id>21135e0313fca380f60ebccf3244b037</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rack/Cabinet Items</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_21135e0313fca380f60ebccf3244b037</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:47:39</sys_updated_on>
+        <tablename>x_snc_nnemc0_hardware_categories</tablename>
+    </sys_metadata_link>
+</record_update>

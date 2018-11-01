@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b7c48426db9d23008e9357935e9619d6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Senior Level">f2320462db9d23008e9357935e961911</category_level>
+        <category_name>Electrician</category_name>
+        <education_level display_value="Bachelor's Degree in Business or related field of study*">5d72c462db9d23008e9357935e9619b2</education_level>
+        <minimum_experience>Ten or more (10+) years of related experience with in leading and managing electrical surveys and installations.  Minimally be certified as a licensed electrician or journeyman. This position is required to conform to Davis Bacon prevailing wages. Under minimal direction, installs electrical subpanels, wiring, survey and Install electrical wiring, and equipment. Ensure that work is in accordance with relevant codes. May install electrical panels, outlets, sub panels, and grounding, assemble, install, and test electrical wiring  and equipment using hand tools and power tools, connect wires to circuit breakers, transformers, or other components, inspect electrical systems, equipment, and components to identify hazards, defects, and the need for adjustment or repair, and to ensure compliance with codes, prepare sketches or follow blueprints to determine the location of wiring and equipment and to ensure conformance to building and safety codes, use a variety of tools and equipment such as power construction equipment, measuring devices, power tools, and testing equipment including oscilloscopes, ammeters, and test lamps, perform business management duties such as maintaining records and files, preparing reports and ordering supplies and equipment, perform physically demanding tasks, such as digging trenches to lay conduit and moving and lifting heavy objects</minimum_experience>
+        <number>LABCAT0001077</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>b7c48426db9d23008e9357935e9619d6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:43:01</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:01:59</sys_created_on>
+        <sys_id>47b94c6adb9d23008e9357935e961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Electrician</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_47b94c6adb9d23008e9357935e961952</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:01:59</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

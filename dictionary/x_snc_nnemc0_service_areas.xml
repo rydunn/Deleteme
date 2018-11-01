@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Service Areas" max_length="40" name="x_snc_nnemc0_service_areas" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Portfolio" max_length="32" name="portfolio" reference="pm_portfolio" type="reference"/>
+        <element display="true" label="Service Area" max_length="300" name="service_area" type="string"/>
+        <element label="Service Area Description" max_length="4000" name="service_area_description" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="portfolio"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

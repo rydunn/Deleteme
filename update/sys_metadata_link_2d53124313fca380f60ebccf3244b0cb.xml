@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bf0c4e8b13bca380f60ebccf3244b074</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="x_snc_nnemc0_ngen_hardware_rate_card">
+    <x_snc_nnemc0_ngen_hardware_rate_card action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <amount>0</amount>
+        <base_cost>0</base_cost>
+        <condition/>
+        <cost_center/>
+        <description>SWITCH MODULE, CISCO 4500 E-SERIES, 24-PORT GE (SFP), WS-X4624-SFP-E=</description>
+        <distribute_cost/>
+        <distribution_value/>
+        <end_date/>
+        <hardware_category display_value="Access Switches and Modules">5b69ce0b13bca380f60ebccf3244b0d0</hardware_category>
+        <installation_per_unit_price>128.82</installation_per_unit_price>
+        <interval>monthly</interval>
+        <last_processed/>
+        <model_number>WS-X4624-SFP-E=</model_number>
+        <name>WS-X4624-SFP-E=</name>
+        <next_process>2018-10-01</next_process>
+        <number>NGENHWRC0001017</number>
+        <order>100</order>
+        <price_per_unit>9004.78</price_per_unit>
+        <recurring>false</recurring>
+        <sales_tax>false</sales_tax>
+        <short_description/>
+        <start_date>2018-10-01</start_date>
+        <summary_type/>
+        <sys_class_name>x_snc_nnemc0_ngen_hardware_rate_card</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:16:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>bf0c4e8b13bca380f60ebccf3244b074</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:16:56</sys_updated_on>
+        <table/>
+        <tax_cost>0</tax_cost>
+        <tax_rate>0</tax_rate>
+    </x_snc_nnemc0_ngen_hardware_rate_card>
+    <fx_price action="delete_multiple" query="id=bf0c4e8b13bca380f60ebccf3244b074"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>128.82</amount>
+        <currency display_value="USD">USD</currency>
+        <field>installation_per_unit_price</field>
+        <id>bf0c4e8b13bca380f60ebccf3244b074</id>
+        <parent/>
+        <reference_amount>128.82</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:16:56</sys_created_on>
+        <sys_id>3b0c4e8b13bca380f60ebccf3244b076</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:16:56</sys_updated_on>
+        <table>x_snc_nnemc0_ngen_hardware_rate_card</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>9004.78</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_per_unit</field>
+        <id>bf0c4e8b13bca380f60ebccf3244b074</id>
+        <parent/>
+        <reference_amount>9004.78</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:16:56</sys_created_on>
+        <sys_id>730c4e8b13bca380f60ebccf3244b077</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:16:56</sys_updated_on>
+        <table>x_snc_nnemc0_ngen_hardware_rate_card</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:48:44</sys_created_on>
+        <sys_id>2d53124313fca380f60ebccf3244b0cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WS-X4624-SFP-E=</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_2d53124313fca380f60ebccf3244b0cb</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:48:44</sys_updated_on>
+        <tablename>x_snc_nnemc0_ngen_hardware_rate_card</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1b69ce0b13bca380f60ebccf3244b0cc</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_nnemc0_hardware_categories">
+    <x_snc_nnemc0_hardware_categories action="INSERT_OR_UPDATE">
+        <description>The monitors and video cards used to display text or images. This category does not include items specifically for VTC.
+
+a. Display - A display is a computer output surface and projecting mechanism that shows text and often graphic images to the computer user, using a cathode ray tube ( CRT ), liquid crystal display ( LCD ), light-emitting diode, gas plasma, or other image projection technology. The display is usually considered to include the screen or projection surface and the device that produces the information on the screen. In most computers, the display is packaged in a separate unit called a monitor. 
+
+b. Video cards - Most of the processing done on a computer is done via the computer's central processing unit, or CPU. So in order to give the CPU a break and help it run more efficiently, a video card can be used to process the graphics portion of the processing load. Because most of today's programs are graphically oriented, the video card can help almost any program run more efficiently. Video cards, also called graphics accelerators, can speed up both 2D and 3D graphics rendering. Programs such as photo editors and Web browsers may benefit from 2D acceleration, while CAD design will most likely benefit from the card's 3D acceleration. Some programs rely so heavily on the video card, that they will not run if a supported video card is not installed.</description>
+        <material_category>Displays/Graphics</material_category>
+        <number>HWCAT0001005</number>
+        <sys_class_name>x_snc_nnemc0_hardware_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:05:26</sys_created_on>
+        <sys_id>1b69ce0b13bca380f60ebccf3244b0cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:05:26</sys_updated_on>
+    </x_snc_nnemc0_hardware_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:47:36</sys_created_on>
+        <sys_id>b4131e0313fca380f60ebccf3244b075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Displays/Graphics</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_b4131e0313fca380f60ebccf3244b075</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:47:36</sys_updated_on>
+        <tablename>x_snc_nnemc0_hardware_categories</tablename>
+    </sys_metadata_link>
+</record_update>

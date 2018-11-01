@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0d31371edb1d23008e9357935e9619c0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_funds_transaction_stages">
+    <x_snc_nnemc0_funds_transaction_stages action="INSERT_OR_UPDATE">
+        <fund_stage_description>An administrative reservation of funds based on procurement directives,&#13;
+requests, or equivalent instruments that authorize preliminary negotiations, but require&#13;
+that funds be certified by the official responsible for the administrative control of funds&#13;
+before incurrence of the obligation. Initiations are entered into memorandum accounts to&#13;
+help keep pre-commitment actions, such as approved procurement programs, within the&#13;
+available subdivision of funds. Initiations identify funds to be set aside for planning&#13;
+purposes before establishment of commitments or obligations. Initiations will not be&#13;
+maintained as a part of the official fiscal records.</fund_stage_description>
+        <fund_stage_name>Initiation</fund_stage_name>
+        <number>FUNDSTAGE0001001</number>
+        <sys_class_name>x_snc_nnemc0_funds_transaction_stages</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:14:57</sys_created_on>
+        <sys_id>0d31371edb1d23008e9357935e9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:14:57</sys_updated_on>
+    </x_snc_nnemc0_funds_transaction_stages>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:22:37</sys_created_on>
+        <sys_id>13f2779edb1d23008e9357935e96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Initiation</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_13f2779edb1d23008e9357935e96191a</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:22:37</sys_updated_on>
+        <tablename>x_snc_nnemc0_funds_transaction_stages</tablename>
+    </sys_metadata_link>
+</record_update>

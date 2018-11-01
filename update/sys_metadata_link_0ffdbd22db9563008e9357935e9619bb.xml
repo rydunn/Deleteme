@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6635f9e6db5563008e9357935e961933</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_snc_nnemc0_labor_category_rates">
+    <x_snc_nnemc0_labor_category_rates action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <amount>35.47</amount>
+        <base_cost>35.47</base_cost>
+        <condition/>
+        <cost_center/>
+        <description/>
+        <distribute_cost/>
+        <distribution_value/>
+        <end_date/>
+        <gf display_value="FY15">690db054133002003ff3691c2c6a5efa</gf>
+        <interval>monthly</interval>
+        <labor_category display_value="Warehouseman - Junior Level">7bc4c426db9d23008e9357935e96190a</labor_category>
+        <last_processed/>
+        <name/>
+        <next_process>2018-10-25</next_process>
+        <number>LABCATRATE0001222</number>
+        <order>100</order>
+        <recurring>true</recurring>
+        <sales_tax>false</sales_tax>
+        <short_description/>
+        <start_date>2018-10-25</start_date>
+        <summary_type/>
+        <sys_class_name>x_snc_nnemc0_labor_category_rates</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-25 00:51:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>6635f9e6db5563008e9357935e961933</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-25 01:09:15</sys_updated_on>
+        <table/>
+        <tax_cost>0</tax_cost>
+        <tax_rate>0</tax_rate>
+    </x_snc_nnemc0_labor_category_rates>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-25 01:29:54</sys_created_on>
+        <sys_id>0ffdbd22db9563008e9357935e9619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LABCATRATE0001222</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_0ffdbd22db9563008e9357935e9619bb</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-25 01:29:54</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_category_rates</tablename>
+    </sys_metadata_link>
+</record_update>

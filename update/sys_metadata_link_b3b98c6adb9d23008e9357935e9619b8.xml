@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7fc48426db9d23008e9357935e9619e9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Senior Level">f2320462db9d23008e9357935e961911</category_level>
+        <category_name>IT Specialist</category_name>
+        <education_level display_value="High school Diploma or General Equivalency Diploma (GED)">9972c462db9d23008e9357935e9619b1</education_level>
+        <minimum_experience>Under broad direction, oversee and perform advanced systems installation, operation, integration, and troubleshooting in order to maintain optimum information technology system operations.  Design and oversee upgrades and new installs of information technology systems and services ensuring coordination with Cyber Security Specialist.   Perform Tier III upgrades of networking systems, information technology systems, and storage networking.  Perform Tier III troubleshooting, optimization, and performance management of Internet Protocol, Domain Name System (DNS), Dynamic Host Configuration Protocol (DHCP), and routing protocols.  Integrate enterprise, regional, and local IT systems ensuring current network operations are sustained or oversee their recovery.  Knowledge of Internet Protocol version 6 (IPv6), Enhanced Interior Gateway Routing Protocol (EIGRP), Border Gateway Protocol (BGP), Virtual Local Area Network (VLAN), Virtual Private Network (VPN), and Network Address Translation (NAT).  10+ years of experience required.  Possess a Cisco Certified Network Professional (CCNP) or Cisco Certified Design Professional (CCDP), Microsoft Technology Associate (MTA) or a Microsoft Certified Technology Specialist (MCTS) certification.</minimum_experience>
+        <number>LABCAT0001112</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>7fc48426db9d23008e9357935e9619e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:45:05</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:02</sys_created_on>
+        <sys_id>b3b98c6adb9d23008e9357935e9619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Specialist</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_b3b98c6adb9d23008e9357935e9619b8</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:02</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f3c48426db9d23008e9357935e9619ed</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Senior Level">f2320462db9d23008e9357935e961911</category_level>
+        <category_name>Network Architect Engineer</category_name>
+        <education_level display_value="Bachelor's Degree in Computer Science, MIS, Business, or related field*">11720862db9d23008e9357935e961924</education_level>
+        <minimum_experience>Five or more (5+) years of related experience.  Should include both a strong business background and a core technical background. Under minimal direction, blends the right combination of specializations to conceptualize, design and develop total system/product solutions for enterprise-wide information technology and/or engineering/manufacturing processes. Translates customer and organizational objectives and critical success factors into actionable business, organization and technology strategies. Creates information technology plans based on an understanding of the customer's organization, strategic direction, technology context and business needs. Leads and works in a collaborative effort to conceptualize total systems and/or product solutions. Architects, designs and develops integrated business/engineering systems and products to support the achievement of the customer's business goals. Leads others in the definition of project scope, plans and deliverables including cost projections and proposed implementation dates. Controls project requirements, scope and change management issues. Assists leadership in determining tactical and strategic direction of the division/organization. Works with others to develop and propose new business and technical opportunities to leadership and/or the customer.  Researches, evaluates and stays current on emerging tools, techniques and technologies.</minimum_experience>
+        <number>LABCAT0001118</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>f3c48426db9d23008e9357935e9619ed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:49:26</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:03</sys_created_on>
+        <sys_id>44c98c6adb9d23008e9357935e9619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Network Architect Engineer</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_44c98c6adb9d23008e9357935e9619c2</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:03</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

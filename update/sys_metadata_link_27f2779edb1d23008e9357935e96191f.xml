@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f0823f5edb1d23008e9357935e9619c2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_funds_transaction_stages">
+    <x_snc_nnemc0_funds_transaction_stages action="INSERT_OR_UPDATE">
+        <fund_stage_description>A firm administrative reservation of funds based on solid procurement&#13;
+directives, unaccepted customer orders, requisitions, authorizations to issue travel&#13;
+orders, or equivalent instruments which authorize the recipient to create obligations&#13;
+without further recourse to the official responsible for certifying the availability of funds. A&#13;
+commitment is generally recorded when the comptroller signs the document to certify&#13;
+that the funds are available and properly cited for the effort. Only warranted or&#13;
+authorized personnel can legally obligate government funds. </fund_stage_description>
+        <fund_stage_name>Commitment</fund_stage_name>
+        <number>FUNDSTAGE0001002</number>
+        <sys_class_name>x_snc_nnemc0_funds_transaction_stages</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:20:53</sys_created_on>
+        <sys_id>f0823f5edb1d23008e9357935e9619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:20:53</sys_updated_on>
+    </x_snc_nnemc0_funds_transaction_stages>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:22:37</sys_created_on>
+        <sys_id>27f2779edb1d23008e9357935e96191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Commitment</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_27f2779edb1d23008e9357935e96191f</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:22:37</sys_updated_on>
+        <tablename>x_snc_nnemc0_funds_transaction_stages</tablename>
+    </sys_metadata_link>
+</record_update>

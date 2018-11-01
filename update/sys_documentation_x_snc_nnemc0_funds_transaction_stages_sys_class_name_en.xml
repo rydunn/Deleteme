@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sys_class_name" label="Class" language="en" table="x_snc_nnemc0_funds_transaction_stages">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <help/>
+            <hint/>
+            <label>Class</label>
+            <language>en</language>
+            <name>x_snc_nnemc0_funds_transaction_stages</name>
+            <plural>Class</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-10-24 15:11:31</sys_created_on>
+            <sys_id>417037dadb1d23008e9357935e961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Class</sys_name>
+            <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_nnemc0_funds_transaction_stages_sys_class_name_en</sys_update_name>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-10-24 15:11:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

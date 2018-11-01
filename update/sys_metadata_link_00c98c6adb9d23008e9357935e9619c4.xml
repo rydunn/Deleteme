@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3fc48426db9d23008e9357935e9619ed</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Senior Level">f2320462db9d23008e9357935e961911</category_level>
+        <category_name>Network Storage Engineer</category_name>
+        <education_level display_value="Bachelor's Degree in Computer Science, MIS, Business, or related field*">11720862db9d23008e9357935e961924</education_level>
+        <minimum_experience>Ten or more (10+) years of related experience; writing code (C, C#, VB.Net, Java), proficient with RDBMS databases (SQL and Oracle). Responsible for capacity planning and performance analysis of computer systems. Determines current levels of system and application resource utilization and performance. Constructs analytical models describing utilization and performance at multiple levels of granularity. Develops workload projection methodologies to estimate future resource requirements.  Supports resource chargeback rate-setting activities. Analyzes the impact of new technologies on processor and peripheral utilization and performance. Performs workload sizing for new and existing applications. Supports the implementation of hardware and software upgrades. Constructs capacity plans. Develops and implements systems to analyze and report levels of utilization and performance. Oversees storage of capacity and performance data. Recommends parameters that regulate the relative utilization levels of workloads. Supports the measurement and reporting of service level objectives. Supports disaster recovery sizing activities.  Supports capacity management audits. Utilizes the capacity management tool set.  Coordinates team capacity management activities.  Supports disaster recovery sizing activities. Supports the measurement and reporting of service level objectives. Supports capacity management audits. Utilizes the capacity management tool set.</minimum_experience>
+        <number>LABCAT0001119</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>3fc48426db9d23008e9357935e9619ed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:50:03</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:03</sys_created_on>
+        <sys_id>00c98c6adb9d23008e9357935e9619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Network Storage Engineer</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_00c98c6adb9d23008e9357935e9619c4</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:03</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

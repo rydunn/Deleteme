@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a3158176db91a3008e9357935e96197a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_gwbs">
+    <x_snc_nnemc0_gwbs action="INSERT_OR_UPDATE">
+        <definition>Echelon 3 use only. R&amp;D Budget Activity 2.  Applied research is systematic study to understand the means to meet a recognized and specific need. It is a systematic expansion and application of knowledge to develop useful materials, devices, and systems or methods. It may be oriented, ultimately, toward the design, development, and improvement of prototypes and new processes to meet general mission area requirements. Applied research may translate promising basic research into solutions for broadly defined military needs, short of system development. This type of effort may vary from systematic mission-directed research beyond that in Budget Activity 1 to sophisticated breadboard hardware, study, programming and planning efforts that establish the initial feasibility and practicality of proposed solutions to technological challenges. It includes studies, investigations, and non-system specific technology efforts. The dominant characteristic is that applied research is directed toward general military needs with a view toward developing and evaluating the feasibility and practicality of proposed solutions and determining their parameters. Applied Research precedes system specific technology investigations or development. Program control of the Applied Research program element is normally exercised by general level of effort. Program elements in this category involve pre-Milestone B efforts, also known as Concept and Technology Development phase tasks, such as concept exploration efforts and paper studies of alternative concepts for meeting a mission need.</definition>
+        <number>GWBS0001301</number>
+        <parent_task display_value="1.1.6 Research and Development (S&amp;T)">2b158176db91a3008e9357935e961979</parent_task>
+        <sys_class_name>x_snc_nnemc0_gwbs</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-25 15:59:55</sys_created_on>
+        <sys_id>a3158176db91a3008e9357935e96197a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-25 16:38:49</sys_updated_on>
+        <task_code>1.1.6.2</task_code>
+        <task_name>1.1.6.2 Applied Research</task_name>
+        <task_title>Applied Research</task_title>
+    </x_snc_nnemc0_gwbs>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-25 16:00:59</sys_created_on>
+        <sys_id>93550976db91a3008e9357935e961952</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>1.1.6.2 Applied Research</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_93550976db91a3008e9357935e961952</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-25 17:03:28</sys_updated_on>
+        <tablename>x_snc_nnemc0_gwbs</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>cfbee75adb1d23008e9357935e96195b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_appn">
+    <x_snc_nnemc0_appn action="INSERT_OR_UPDATE">
+        <appn_code>RDT&amp;E</appn_code>
+        <appn_desc>RDT&amp;E funds are used for expenses and investments for the development of a new system,&#13;
+such as basic and applied research, advanced technology development, demonstration and&#13;
+validation, engineering development, developmental and operational testing, and evaluation&#13;
+of test results. The cost of operation of dedicated research and development installations&#13;
+and activities are also appropriated under RDT&amp;E. This appropriation is a multi-year&#13;
+appropriation and remains available for obligation for two fiscal years; however, RDT&amp;E&#13;
+follows an incremental funding policy and is budgeted to cover the costs expected to be&#13;
+incurred during a 12-month period. </appn_desc>
+        <appn_type>Research, Development, Test and Evaluation</appn_type>
+        <number>APPN0001006</number>
+        <sys_class_name>x_snc_nnemc0_appn</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:04:19</sys_created_on>
+        <sys_id>cfbee75adb1d23008e9357935e96195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:04:19</sys_updated_on>
+    </x_snc_nnemc0_appn>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:14:25</sys_created_on>
+        <sys_id>9f11b31edb1d23008e9357935e96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Research, Development, Test and Evaluation</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_9f11b31edb1d23008e9357935e96196b</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:14:25</sys_updated_on>
+        <tablename>x_snc_nnemc0_appn</tablename>
+    </sys_metadata_link>
+</record_update>

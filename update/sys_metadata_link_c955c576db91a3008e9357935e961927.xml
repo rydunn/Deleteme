@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>37158176db91a3008e9357935e9619c0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_gwbs">
+    <x_snc_nnemc0_gwbs action="INSERT_OR_UPDATE">
+        <definition>Direct involvement as team member, sponsor or leading belt in support of LSS project or event.  Mentoring to belts working on projects or events.  Coordination of the selection of projects to align with command strategic objectives and high impact core value streams.</definition>
+        <number>GWBS0001521</number>
+        <parent_task/>
+        <sys_class_name>x_snc_nnemc0_gwbs</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-25 15:59:56</sys_created_on>
+        <sys_id>37158176db91a3008e9357935e9619c0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-25 16:36:04</sys_updated_on>
+        <task_code>5.1.6.6</task_code>
+        <task_name>5.1.6.6 Lean/Six Sigma Project Work</task_name>
+        <task_title>Lean/Six Sigma Project Work</task_title>
+    </x_snc_nnemc0_gwbs>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-25 16:00:50</sys_created_on>
+        <sys_id>c955c576db91a3008e9357935e961927</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>5.1.6.6 Lean/Six Sigma Project Work</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_c955c576db91a3008e9357935e961927</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-25 17:03:20</sys_updated_on>
+        <tablename>x_snc_nnemc0_gwbs</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" label="GWBS" max_length="40" name="x_snc_nnemc0_gwbs" type="collection">
+        <element label="Definition" max_length="3000" name="definition" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Parent Task" max_length="32" name="parent_task" reference="x_snc_nnemc0_gwbs" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Task Code" max_length="40" name="task_code" type="string"/>
+        <element display="true" label="Task Name" max_length="500" name="task_name" type="string"/>
+        <element label="Task Title" max_length="200" name="task_title" type="string"/>
+        <index name="index">
+            <element name="parent_task"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

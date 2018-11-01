@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ef1e6f1adb1d23008e9357935e961934</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_appn">
+    <x_snc_nnemc0_appn action="INSERT_OR_UPDATE">
+        <appn_code>OMN&amp;R</appn_code>
+        <appn_desc>O&amp;MNR funds are used for expenses, not otherwise provided for, necessary for the&#13;
+operation and maintenance, including training, organization, and administration, of the Navy&#13;
+Reserve; repair of facilities and equipment; hire of passenger motor vehicles; travel and&#13;
+transportation; care of the dead; recruiting; procurement of services, supplies, and&#13;
+equipment; and communications. Equipment purchases under this appropriation are limited &#13;
+to a unit price of less than $250,000. O&amp;MNR funds are available for new obligations for one&#13;
+fiscal year and are appropriated and authorized for use on an annual basis. </appn_desc>
+        <appn_type>Operations &amp; Maintenance, Naval Reserves</appn_type>
+        <number>APPN0001002</number>
+        <sys_class_name>x_snc_nnemc0_appn</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:02:04</sys_created_on>
+        <sys_id>ef1e6f1adb1d23008e9357935e961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:02:04</sys_updated_on>
+    </x_snc_nnemc0_appn>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:14:25</sys_created_on>
+        <sys_id>6b11b31edb1d23008e9357935e96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Operations &amp; Maintenance, Naval Reserves</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_6b11b31edb1d23008e9357935e96196d</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:14:25</sys_updated_on>
+        <tablename>x_snc_nnemc0_appn</tablename>
+    </sys_metadata_link>
+</record_update>

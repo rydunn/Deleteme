@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7fc48426db9d23008e9357935e9619e0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_labor_categories">
+    <x_snc_nnemc0_labor_categories action="INSERT_OR_UPDATE">
+        <category_level display_value="Mid Level">3a320462db9d23008e9357935e961911</category_level>
+        <category_name>Enterprise Service Desk Specialist</category_name>
+        <education_level display_value="High school Diploma or General Equivalency Diploma (GED)">9972c462db9d23008e9357935e9619b1</education_level>
+        <minimum_experience>Under general supervision, conduct operations in support of the Enterprise Service Desk and existing non-local Service Desks, develop scripts, analyze tailored reports, review and correlate audits, conduct Tier 1 and higher tiered analysis in response to Service Desk escalation, monitor tickets to correlate events and incidents for maintaining overall required levels of performance of Information Technology Services.  Perform patching of ticket management system and perform Remedy System Administration.  5-9 years of experience required with at least 4 years of experience using Remedy.   Certified in accordance with DODD 8570.1 Information Assurance Technician I.  Certification required in Information Technology Infrastructure Library (ITIL) version 3 Foundation.</minimum_experience>
+        <number>LABCAT0001096</number>
+        <parent_category/>
+        <sys_class_name>x_snc_nnemc0_labor_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 16:40:28</sys_created_on>
+        <sys_id>7fc48426db9d23008e9357935e9619e0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:45:42</sys_updated_on>
+    </x_snc_nnemc0_labor_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 17:02:01</sys_created_on>
+        <sys_id>a7b98c6adb9d23008e9357935e96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Enterprise Service Desk Specialist</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_a7b98c6adb9d23008e9357935e96196b</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 17:02:01</sys_updated_on>
+        <tablename>x_snc_nnemc0_labor_categories</tablename>
+    </sys_metadata_link>
+</record_update>

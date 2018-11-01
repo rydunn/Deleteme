@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Labor Categories" max_length="40" name="x_snc_nnemc0_labor_categories" type="collection">
+        <element label="Category Level" max_length="32" name="category_level" reference="x_snc_nnemc0_labor_category_levels" type="reference"/>
+        <element label="Category Name" max_length="40" name="category_name" type="string"/>
+        <element default="United States of America" label="Country" max_length="32" name="country" reference="core_country" type="reference"/>
+        <element label="Education Level" max_length="32" name="education_level" reference="x_snc_nnemc0_education_levels" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;//var cn = current.category_name;&#13;&#10;&#9;//var cl = current.category_level.getAttribute('category_level_name');&#13;&#10;    &#13;&#10;&#9;return current.category_name + ' - ' + current.category_level.category_level_name;  // return the calculated value&#13;&#10;&#13;&#10;})(current);" display="true" label="Full Category Name" max_length="150" name="full_category_name" type="string"/>
+        <element label="Minimum Experience" max_length="1000" name="minimum_experience" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Parent Category" max_length="32" name="parent_category" reference="x_snc_nnemc0_labor_categories" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="category_level"/>
+        </index>
+        <index name="index2">
+            <element name="country"/>
+        </index>
+        <index name="index3">
+            <element name="parent_category"/>
+        </index>
+        <index name="index4">
+            <element name="education_level"/>
+        </index>
+        <index name="index5">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

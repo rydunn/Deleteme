@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7692bb5edb1d23008e9357935e96193e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_funds_transaction_stages">
+    <x_snc_nnemc0_funds_transaction_stages action="INSERT_OR_UPDATE">
+        <fund_stage_description>A firm commitment of funds incurred when an order is placed, contract is&#13;
+awarded, service is received, travel orders are issued, and similar transactions are&#13;
+entered into requiring future payment of money in an agreed amount. By law, obligations&#13;
+must be supported by documentary evidence of a mutual agreement in writing. Each&#13;
+individual transaction must meet the test of the following principles:&#13;
+&#13;
+   o   A determination that the specific goods, supplies or services required according&#13;
+to contracts entered into or orders placed obligating an appropriation are&#13;
+intended to meet a bona fide need of the fiscal year charged; and &#13;
+&#13;
+o Contracts entered into or orders placed for goods, supplies or services will be&#13;
+executed only with a bona fide intent that the performing activity will commence&#13;
+work and perform the contract without unnecessary delay. </fund_stage_description>
+        <fund_stage_name>Obligation</fund_stage_name>
+        <number>FUNDSTAGE0001003</number>
+        <sys_class_name>x_snc_nnemc0_funds_transaction_stages</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:21:55</sys_created_on>
+        <sys_id>7692bb5edb1d23008e9357935e96193e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:22:05</sys_updated_on>
+    </x_snc_nnemc0_funds_transaction_stages>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-24 15:22:37</sys_created_on>
+        <sys_id>6bf2779edb1d23008e9357935e96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Obligation</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_6bf2779edb1d23008e9357935e96191d</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-24 15:22:37</sys_updated_on>
+        <tablename>x_snc_nnemc0_funds_transaction_stages</tablename>
+    </sys_metadata_link>
+</record_update>

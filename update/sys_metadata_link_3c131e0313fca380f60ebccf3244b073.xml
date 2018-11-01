@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1769ce0b13bca380f60ebccf3244b0d0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_nnemc0_hardware_categories">
+    <x_snc_nnemc0_hardware_categories action="INSERT_OR_UPDATE">
+        <description>Video Tele Conferencing uses audio and video telecommunications to bring people at different sites together. This can be as simple as a conversation between people in private offices (point-to-point) or involve several (multipoint) sites in large rooms at multiple locations. VTC systems that are installed permanently in conference rooms, or smaller systems that are on roll able carts that can be moved from one room to another. The systems can include specialized phones, computers, monitors, microphones, speakers and DSL connections.</description>
+        <material_category>VTC Items</material_category>
+        <number>HWCAT0001017</number>
+        <sys_class_name>x_snc_nnemc0_hardware_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:05:26</sys_created_on>
+        <sys_id>1769ce0b13bca380f60ebccf3244b0d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:05:26</sys_updated_on>
+    </x_snc_nnemc0_hardware_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-01 19:47:35</sys_created_on>
+        <sys_id>3c131e0313fca380f60ebccf3244b073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VTC Items</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_3c131e0313fca380f60ebccf3244b073</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-01 19:47:35</sys_updated_on>
+        <tablename>x_snc_nnemc0_hardware_categories</tablename>
+    </sys_metadata_link>
+</record_update>

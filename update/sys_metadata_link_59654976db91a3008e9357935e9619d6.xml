@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e3158176db91a3008e9357935e96197e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_nnemc0_gwbs">
+    <x_snc_nnemc0_gwbs action="INSERT_OR_UPDATE">
+        <definition>Program costs directly associated with a specific system or product. These include efforts directly associated with the business and administrative planning, organizing, directing, coordinating, controlling, and approval actions designated to accomplish the program objectives.  It includes administration, project controls, product effectiveness, data and configuration management, subcontract management and security management.  This element is a roll-up of costs associated with lower levels.</definition>
+        <number>GWBS0001314</number>
+        <parent_task display_value="3 Common Elements">af158176db91a3008e9357935e96197d</parent_task>
+        <sys_class_name>x_snc_nnemc0_gwbs</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-25 15:59:55</sys_created_on>
+        <sys_id>e3158176db91a3008e9357935e96197e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-25 16:41:44</sys_updated_on>
+        <task_code>3.1</task_code>
+        <task_name>3.1 Program Management</task_name>
+        <task_title>Program Management</task_title>
+    </x_snc_nnemc0_gwbs>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-10-25 16:01:07</sys_created_on>
+        <sys_id>59654976db91a3008e9357935e9619d6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>3.1 Program Management</sys_name>
+        <sys_package display_value="NNEMC0" source="x_snc_nnemc0">c814a9111320e7403e1554022244b0f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NNEMC0">c814a9111320e7403e1554022244b0f9</sys_scope>
+        <sys_update_name>sys_metadata_link_59654976db91a3008e9357935e9619d6</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-10-25 17:03:35</sys_updated_on>
+        <tablename>x_snc_nnemc0_gwbs</tablename>
+    </sys_metadata_link>
+</record_update>
